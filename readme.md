@@ -14,7 +14,7 @@ A lightweight scientific RPN calculator modeled after the HP 35s, a fast and erg
 
 ## Screenshot
 
-Tbd
+![Screenshot](https://github.com/nevadaperry/NanoRPN/raw/main/screenshot.png)
 
 ## Installation
 
